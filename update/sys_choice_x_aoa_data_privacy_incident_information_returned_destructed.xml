@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="information_returned_destructed" table="x_aoa_data_privacy_incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>information_returned_destructed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>0</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 20:57:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a98cea7913d1a7048b8533228144b09d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 20:57:46</sys_updated_on>
+            <value>Yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>information_returned_destructed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>1</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 20:57:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e98cae7913d1a7048b8533228144b00c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 20:57:46</sys_updated_on>
+            <value>No</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>information_returned_destructed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unknown</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>2</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 20:57:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a98cae7913d1a7048b8533228144b00d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 20:57:46</sys_updated_on>
+            <value>Unknown</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>information_returned_destructed</element>
+            <name>x_aoa_data_privacy_incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 20:57:46</sys_created_on>
+            <sys_id>d8df4606db11230058d5a08a4896193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>information_returned_destructed</sys_name>
+            <sys_package display_value="Data Privacy Incident" source="x_aoa_data_privacy">3da2def51391a7048b8533228144b0e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data Privacy Incident">3da2def51391a7048b8533228144b0e5</sys_scope>
+            <sys_update_name>sys_choice_x_aoa_data_privacy_incident_information_returned_destructed</sys_update_name>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 20:57:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

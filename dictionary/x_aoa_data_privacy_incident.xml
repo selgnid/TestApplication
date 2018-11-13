@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Data Privacy Incident" max_length="40" name="x_aoa_data_privacy_incident" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Actual date" max_length="40" name="actual_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Agency reporting required" max_length="40" name="agency_reporting_required" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Business area (POC)" max_length="40" name="business_area" type="string">
+            <choice>
+                <element inactive_on_update="false" label="3rd Party" sequence="0" value="3rd Party"/>
+                <element inactive_on_update="false" label="AIM" sequence="1" value="AIM"/>
+                <element inactive_on_update="false" label="AMOSA" sequence="2" value="AMOSA"/>
+                <element inactive_on_update="false" label="Ecommerce" sequence="3" value="Ecommerce"/>
+                <element inactive_on_update="false" label="EPS" sequence="4" value="EPS"/>
+                <element inactive_on_update="false" label="Fixed" sequence="5" value="Fixed"/>
+                <element inactive_on_update="false" label="Imaging" sequence="6" value="Imaging"/>
+                <element inactive_on_update="false" label="Life" sequence="7" value="Life"/>
+                <element inactive_on_update="false" label="LTC" sequence="8" value="LTC"/>
+                <element inactive_on_update="false" label="Mailroom" sequence="9" value="Mailroom"/>
+                <element inactive_on_update="false" label="Outside Agent" sequence="10" value="Outside Agent"/>
+                <element inactive_on_update="false" label="Policy Administration" sequence="11" value="Policy Administration"/>
+                <element inactive_on_update="false" label="Policyholder Benefits" sequence="12" value="Policyholder Benefits"/>
+                <element inactive_on_update="false" label="Questar" sequence="13" value="Questar"/>
+                <element inactive_on_update="false" label="Return Mail Team Offshore" sequence="14" value="Return Mail Team Offshore"/>
+                <element inactive_on_update="false" label="Service Recovery" sequence="15" value="Service Recovery"/>
+                <element inactive_on_update="false" label="Variable" sequence="16" value="Variable"/>
+                <element inactive_on_update="false" label="Web IT" sequence="17" value="Web IT"/>
+                <element inactive_on_update="false" label="Other" sequence="18" value="Other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Business entity impacted" max_length="40" name="business_impacted" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Caller name" max_length="40" name="caller_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Caller reference" max_length="40" name="caller_reference" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Caller relationship" max_length="40" name="caller_relationship" type="string">
+            <choice>
+                <element inactive_on_update="false" label="3rd Party/Vendor" sequence="0" value="3rd Party/Vendor"/>
+                <element inactive_on_update="false" label="Allianz Agent" sequence="1" value="Allianz Agent"/>
+                <element inactive_on_update="false" label="Allianz Agent Office" sequence="2" value="Allianz Agent Office"/>
+                <element inactive_on_update="false" label="Allianz Agent/Policyholder" sequence="3" value="Allianz Agent/Policyholder"/>
+                <element inactive_on_update="false" label="Attorney" sequence="4" value="Attorney"/>
+                <element inactive_on_update="false" label="Beneficiary" sequence="5" value="Beneficiary"/>
+                <element inactive_on_update="false" label="Employee" sequence="6" value="Employee"/>
+                <element inactive_on_update="false" label="Non-Allianz Agent" sequence="7" value="Non-Allianz Agent"/>
+                <element inactive_on_update="false" label="Policy Holder" sequence="8" value="Policy Holder"/>
+                <element inactive_on_update="false" label="Power of Attorney" sequence="9" value="Power of Attorney"/>
+                <element inactive_on_update="false" label="Public" sequence="10" value="Public"/>
+                <element inactive_on_update="false" label="Questar Client" sequence="11" value="Questar Client"/>
+                <element inactive_on_update="false" label="Questar Registered Representative" sequence="12" value="Questar Registered Representative"/>
+                <element inactive_on_update="false" label="TPA" sequence="13" value="TPA"/>
+                <element inactive_on_update="false" label="Trustee" sequence="14" value="Trustee"/>
+                <element inactive_on_update="false" label="Other" sequence="15" value="Other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Corrective action" max_length="40" name="corrective_action" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Data classification category" max_length="40" name="data_classification_category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Public" sequence="0" value="Public"/>
+                <element inactive_on_update="false" label="Internal" sequence="1" value="Internal"/>
+                <element inactive_on_update="false" label="Confidential" sequence="2" value="Confidential"/>
+                <element inactive_on_update="false" label="Strictly Confidential" sequence="3" value="Strictly Confidential"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Data subject notification required" max_length="40" name="data_subject_notification_required" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Date incident classification determined" max_length="40" name="date_incident_classification_determined" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Days to conduct review" max_length="40" name="days_to_conduct_review" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Days to report event" max_length="40" name="days_to_report_event" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Detailed account of incident last updated on" max_length="40" name="detailed_account_of_incident_last_updated_on" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Detailed account of last incident updated by" max_length="40" name="detailed_account_of_last_incident_updated_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Detailed count of incident" max_length="4000" name="detailed_count_of_incident" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Incident Classification" max_length="40" name="incident_classification" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Event" sequence="0" value="Event"/>
+                <element inactive_on_update="false" label="Incident" sequence="1" value="Incident"/>
+                <element inactive_on_update="false" label="Breach" sequence="2" value="Breach"/>
+                <element inactive_on_update="false" label="Insufficient Information" sequence="3" value="Insufficient Information"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Incident hard cost details" max_length="4000" name="incident_hard_cost_details" type="string"/>
+        <element attributes="omit_sys_original=true,edge_encryption_enabled=true" label="Incident hard cost total" max_length="20" name="incident_hard_cost_total" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Information returned/destructed" max_length="40" name="information_returned_destructed" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="Unknown" sequence="2" value="Unknown"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Injured party name 2" max_length="40" name="injured_party_name_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Injured party name 3" max_length="40" name="injured_party_name_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Injured party name 4" max_length="40" name="injured_party_name_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Injured party name 5" max_length="40" name="injured_party_name_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Injured party reference 1" max_length="40" name="injured_party_reference_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Injured party reference 2" max_length="40" name="injured_party_reference_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Injured party reference 3" max_length="40" name="injured_party_reference_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Injured party reference 4" max_length="40" name="injured_party_reference_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Injured party reference 5" max_length="40" name="injured_party_reference_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Injured party relationship 1" max_length="40" name="injured_party_relationship_1" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Injured party relationship 2" max_length="40" name="injured_party_relationship_2" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Injured party relationship 3" max_length="40" name="injured_party_relationship_3" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Injured party relationship 4" max_length="40" name="injured_party_relationship_4" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Injured party relationship 5" max_length="40" name="injured_party_relationship_5" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Injured part name 1" max_length="40" name="injured_part_name_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Investigation status" max_length="40" name="investigation_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+                <element inactive_on_update="false" label="Open" sequence="1" value="Open"/>
+                <element inactive_on_update="false" label="Fact Finding" sequence="2" value="Fact Finding"/>
+                <element inactive_on_update="false" label="Review" sequence="3" value="Review"/>
+                <element inactive_on_update="false" label="Closed" sequence="4" value="Closed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="IT incident number" max_length="32" name="it_incident_number" reference="incident" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="List data elements" max_length="4000" name="list_data_elements" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Location of Incident" max_length="40" name="location" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Affiliates" sequence="0" value="Affiliates"/>
+                <element inactive_on_update="false" label="Field" sequence="1" value="Field"/>
+                <element inactive_on_update="false" label="Home Office/Allianz" sequence="2" value="Home Office/Allianz"/>
+                <element inactive_on_update="false" label="Questar Asset Management" sequence="3" value="Questar Asset Management"/>
+                <element inactive_on_update="false" label="Questar Capital" sequence="4" value="Questar Capital"/>
+                <element inactive_on_update="false" label="TPA" sequence="5" value="TPA"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Name of third party vendor 1" max_length="4000" name="name_of_third_party_vendor_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name of third party vendor 2" max_length="4000" name="name_of_third_party_vendor_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name of third party vendor 3" max_length="4000" name="name_of_third_party_vendor_3" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Required: Number of data subjects notified" max_length="40" name="number_of_data_subjects_notified" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Not Required: Number of data subjects notified" max_length="40" name="number_of_data_subjects_notified_2" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Number of individuals impacted" max_length="40" name="number_of_individuals_impacted" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="0" label="Number of injured parties" max_length="40" name="number_of_injured_parties" type="string">
+            <choice>
+                <element inactive_on_update="false" label="0" sequence="0" value="0"/>
+                <element inactive_on_update="false" label="1" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="5" value="5"/>
+                <element inactive_on_update="false" label="6 or more" sequence="6" value="6 or more"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Producer affiliated" max_length="40" name="producer_affiliated" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Reported Date" max_length="40" name="reported_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Reported time" max_length="40" name="reported_time" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" label="Reporter" max_length="32" name="reporter" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Reporter phone" max_length="40" name="reporter_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Residence state 1" max_length="40" name="residence_state_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Residence state 3" max_length="40" name="residence_state_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Residence state 4" max_length="40" name="residence_state_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Residence state 5" max_length="40" name="residence_state_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resident state 2" max_length="40" name="resident_state_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Risk score" max_length="40" name="risk_score" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="0" value="Low"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="Medium"/>
+                <element inactive_on_update="false" label="High" sequence="2" value="High"/>
+                <element inactive_on_update="false" label="Very High" sequence="3" value="Very High"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Root cause description" max_length="4000" name="root_cause_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="2" label="Root cause status" max_length="1024" name="root_cause_status" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="Agent Error" sequence="0" value="Agent Error"/>
+                <element inactive_on_update="false" label="Employee Error" sequence="1" value="Employee Error"/>
+                <element inactive_on_update="false" label="Field Error" sequence="2" value="Field Error"/>
+                <element inactive_on_update="false" label="HO Keying Error" sequence="3" value="HO Keying Error"/>
+                <element inactive_on_update="false" label="HO Manual Process Error" sequence="4" value="HO Manual Process Error"/>
+                <element inactive_on_update="false" label="HO System Error" sequence="5" value="HO System Error"/>
+                <element inactive_on_update="false" label="Mailroom Machine Error" sequence="6" value="Mailroom Machine Error"/>
+                <element inactive_on_update="false" label="Offshore Error" sequence="7" value="Offshore Error"/>
+                <element inactive_on_update="false" label="Other" sequence="8" value="Other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="SD" max_length="40" name="sd" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="SLA met" max_length="40" name="sla_met" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Status date" max_length="40" name="status_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status of information" max_length="40" name="status_of_information" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Deleted" sequence="0" value="Deleted"/>
+                <element inactive_on_update="false" label="Discarded" sequence="1" value="Discarded"/>
+                <element inactive_on_update="false" label="Returned to HO" sequence="2" value="Returned to HO"/>
+                <element inactive_on_update="false" label="Sent to Correct Agent/Representative" sequence="3" value="Sent to Correct Agent/Representative"/>
+                <element inactive_on_update="false" label="Sent to Correct PO/Client" sequence="4" value="Sent to Correct PO/Client"/>
+                <element inactive_on_update="false" label="Shredded" sequence="5" value="Shredded"/>
+                <element inactive_on_update="false" label="Other" sequence="6" value="Other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="business_area" dependent_on_field="business_area" label="Sub-category" max_length="40" name="sub_category" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Variable" inactive_on_update="false" label="B300" value="B300"/>
+                <element dependent_value="Fixed" inactive_on_update="false" label="Business" value="Business"/>
+                <element dependent_value="Variable" inactive_on_update="false" label="Claims" value="Claims"/>
+                <element dependent_value="Fixed" inactive_on_update="false" label="Claims" value="Claims"/>
+                <element dependent_value="Fixed" inactive_on_update="false" label="Client" value="Client"/>
+                <element dependent_value="Variable" inactive_on_update="false" label="Client Services" value="Client Services"/>
+                <element dependent_value="Variable" inactive_on_update="false" label="Commissions" value="Commissions"/>
+                <element dependent_value="Questar" inactive_on_update="false" label="Company" value="Company"/>
+                <element dependent_value="Variable" inactive_on_update="false" label="Correspondence" value="Correspondence"/>
+                <element dependent_value="Variable" inactive_on_update="false" label="Financials" value="Financials"/>
+                <element dependent_value="Questar" inactive_on_update="false" label="Internal HQ" value="Internal HQ"/>
+                <element dependent_value="Fixed" inactive_on_update="false" label="New" value="New"/>
+                <element dependent_value="Variable" inactive_on_update="false" label="New Business" value="New Business"/>
+                <element dependent_value="Variable" inactive_on_update="false" label="Periodics" value="Periodics"/>
+                <element dependent_value="Questar" inactive_on_update="false" label="Registered Representatives" value="Registered Representatives"/>
+                <element dependent_value="Fixed" inactive_on_update="false" label="Services" value="Services"/>
+                <element dependent_value="Variable" inactive_on_update="false" label="Treasury" value="Treasury"/>
+                <element dependent_value="Fixed" inactive_on_update="false" label="Treasury" value="Treasury"/>
+                <element dependent_value="Variable" inactive_on_update="false" label="Variable" value="Variable"/>
+                <element dependent_value="Variable" inactive_on_update="false" label="Variable Commissions" value="Variable Commissions"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Third party vendor" max_length="40" name="third_party_vendor" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="NPPI - Email" sequence="0" value="NPPI - Email"/>
+                <element inactive_on_update="false" label="NPPI - Fax" sequence="1" value="NPPI - Fax"/>
+                <element inactive_on_update="false" label="NPPI - Mail" sequence="2" value="NPPI - Mail"/>
+                <element inactive_on_update="false" label="NPPI - Web" sequence="3" value="NPPI - Web"/>
+                <element inactive_on_update="false" label="Laptop" sequence="4" value="Laptop"/>
+                <element inactive_on_update="false" label="NPPI - Verbal" sequence="5" value="NPPI - Verbal"/>
+                <element inactive_on_update="false" label="Portable media device" sequence="6" value="Portable media device"/>
+                <element inactive_on_update="false" label="Other" sequence="7" value="Other"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="it_incident_number"/>
+        </index>
+        <index name="index2">
+            <element name="reporter"/>
+        </index>
+        <index name="index3">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="residence_state" table="x_aoa_data_privacy_data_privacy_incident_residence_state" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AK - Alaska</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>0</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1bc4642135da7048b8533228144b08d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>AK - Alaska</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AL - Alabama</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>1</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85bc4642135da7048b8533228144b08e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>AL - Alabama</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AR - Arkansas</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>2</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45bc4642135da7048b8533228144b08f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>AR - Arkansas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AZ - Arizona</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>3</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1bc8e42135da7048b8533228144b08d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>AZ - Arizona</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CA - California</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>4</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81bc8e42135da7048b8533228144b08e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>CA - California</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canada</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>5</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41bc8e42135da7048b8533228144b08f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>Canada</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CO - Colorado</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>6</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01bc8e42135da7048b8533228144b090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>CO - Colorado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CT - Connecticut</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>7</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdbc8e42135da7048b8533228144b090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>CT - Connecticut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DC - District of Columbia</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>8</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8dbc8e42135da7048b8533228144b091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>DC - District of Columbia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DE - Delaware</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>9</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4dbc8e42135da7048b8533228144b092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>DE - Delaware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FL - Florida</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>10</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0dbc8e42135da7048b8533228144b093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>FL - Florida</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GA - Georgia</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>11</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9bc8e42135da7048b8533228144b094</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>GA - Georgia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HI - Hawaii</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>12</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89bc8e42135da7048b8533228144b095</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>HI - Hawaii</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IA - Iowa</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>13</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49bc8e42135da7048b8533228144b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>IA - Iowa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ID - Idaho</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>14</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09bc8e42135da7048b8533228144b097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>ID - Idaho</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IL - Illinois</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>15</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5bc8e42135da7048b8533228144b098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>IL - Illinois</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IN - Indiana</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>16</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95bc8e42135da7048b8533228144b099</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>IN - Indiana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KS - Kansas</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>17</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55bc8e42135da7048b8533228144b09a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>KS - Kansas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KY - Kentucky</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>18</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15bc8e42135da7048b8533228144b09b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>KY - Kentucky</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LA - Louisiana</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>19</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1bc8e42135da7048b8533228144b09c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>LA - Louisiana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MA - Massachusetts</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>20</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91bc8e42135da7048b8533228144b09d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>MA - Massachusetts</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MD - Maryland</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>21</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51bc8e42135da7048b8533228144b09e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>MD - Maryland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ME - Maine</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>22</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11bc8e42135da7048b8533228144b09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>ME - Maine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MI - Michigan</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>23</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ddbc8e42135da7048b8533228144b09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>MI - Michigan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MN - Minnesota</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>24</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9dbc8e42135da7048b8533228144b0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>MN - Minnesota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MO - Missouri</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>25</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5dbc8e42135da7048b8533228144b0a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>MO - Missouri</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MS - Mississippi</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>26</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1dbc8e42135da7048b8533228144b0a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>MS - Mississippi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MT - Montana</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>27</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9bc8e42135da7048b8533228144b0a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>MT - Montana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NC - North Carolina</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>28</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99bc8e42135da7048b8533228144b0a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>NC - North Carolina</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ND - North Dakota</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>29</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59bc8e42135da7048b8533228144b0a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>ND - North Dakota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NE - Nebraska</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>30</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19bc8e42135da7048b8533228144b0a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>NE - Nebraska</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NH - New Hampshire</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>31</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5bc8e42135da7048b8533228144b0a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>NH - New Hampshire</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NJ - New Jersey</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>32</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95bc8e42135da7048b8533228144b0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>NJ - New Jersey</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NM - New Mexico</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>33</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55bc8e42135da7048b8533228144b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>NM - New Mexico</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NV - Nevada</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>34</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15bc8e42135da7048b8533228144b0aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>NV - Nevada</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NY - New York</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>35</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1bc8e42135da7048b8533228144b0ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>NY - New York</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OH - Ohio</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>36</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91bc8e42135da7048b8533228144b0ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>OH - Ohio</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OK - Oklahoma</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>37</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51bc8e42135da7048b8533228144b0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>OK - Oklahoma</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OR - Oregon</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>38</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11bc8e42135da7048b8533228144b0ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>OR - Oregon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PA - Pennsylvania</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>39</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ddbc8e42135da7048b8533228144b0ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>PA - Pennsylvania</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PR - Puerto Rico</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>40</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9dbc8e42135da7048b8533228144b0af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>PR - Puerto Rico</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RI - Rhode Island</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>41</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5dbc8e42135da7048b8533228144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>RI - Rhode Island</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SC - South Carolina</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>42</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1dbc8e42135da7048b8533228144b0b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>SC - South Carolina</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SD - South Dakota</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>43</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9bc8e42135da7048b8533228144b0b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>SD - South Dakota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TN - Tennessee</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>44</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99bc8e42135da7048b8533228144b0b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>TN - Tennessee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TX - Texas</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>45</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59bc8e42135da7048b8533228144b0b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>TX - Texas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UT - Utah</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>46</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19bc8e42135da7048b8533228144b0b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>UT - Utah</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VA - Virginia</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>47</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5bc8e42135da7048b8533228144b0b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>VA - Virginia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VT - Vermont</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>48</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95bc8e42135da7048b8533228144b0b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>VT - Vermont</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WA - Washington</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>49</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55bc8e42135da7048b8533228144b0b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>WA - Washington</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WI - Wisconsin</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>50</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15bc8e42135da7048b8533228144b0b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>WI - Wisconsin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WV - West Virginia</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>51</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1bc8e42135da7048b8533228144b0ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>WV - West Virginia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>residence_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WY - Wyoming</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sequence>52</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91bc8e42135da7048b8533228144b0bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+            <value>WY - Wyoming</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>residence_state</element>
+            <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 13:17:14</sys_created_on>
+            <sys_id>08df0606db11230058d5a08a489619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>residence_state</sys_name>
+            <sys_package display_value="Data Privacy Incident" source="x_aoa_data_privacy">3da2def51391a7048b8533228144b0e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data Privacy Incident">3da2def51391a7048b8533228144b0e5</sys_scope>
+            <sys_update_name>sys_choice_x_aoa_data_privacy_data_privacy_incident_residence_state_residence_state</sys_update_name>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 13:17:14</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

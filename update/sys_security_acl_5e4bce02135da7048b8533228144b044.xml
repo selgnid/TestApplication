@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_aoa_data_privacy_data_privacy_incident_residence_state</description>
+        <name>x_aoa_data_privacy_data_privacy_incident_residence_state</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+        <sys_created_on>2018-10-23 13:11:02</sys_created_on>
+        <sys_id>5e4bce02135da7048b8533228144b044</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_aoa_data_privacy_data_privacy_incident_residence_state</sys_name>
+        <sys_package display_value="Data Privacy Incident" source="x_aoa_data_privacy">3da2def51391a7048b8533228144b0e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Privacy Incident">3da2def51391a7048b8533228144b0e5</sys_scope>
+        <sys_update_name>sys_security_acl_5e4bce02135da7048b8533228144b044</sys_update_name>
+        <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+        <sys_updated_on>2018-10-23 13:11:02</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

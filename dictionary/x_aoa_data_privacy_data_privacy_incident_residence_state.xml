@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Data Privacy Incident Residence State" max_length="40" name="x_aoa_data_privacy_data_privacy_incident_residence_state" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Data Privacy Incident" max_length="32" name="data_privacy_incident" reference="x_aoa_data_privacy_incident" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Number of people impacted" max_length="40" name="number_of_people_impacted" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Residence state" max_length="40" name="residence_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AK - Alaska" sequence="0" value="AK - Alaska"/>
+                <element inactive_on_update="false" label="AL - Alabama" sequence="1" value="AL - Alabama"/>
+                <element inactive_on_update="false" label="AR - Arkansas" sequence="2" value="AR - Arkansas"/>
+                <element inactive_on_update="false" label="AZ - Arizona" sequence="3" value="AZ - Arizona"/>
+                <element inactive_on_update="false" label="CA - California" sequence="4" value="CA - California"/>
+                <element inactive_on_update="false" label="Canada" sequence="5" value="Canada"/>
+                <element inactive_on_update="false" label="CO - Colorado" sequence="6" value="CO - Colorado"/>
+                <element inactive_on_update="false" label="CT - Connecticut" sequence="7" value="CT - Connecticut"/>
+                <element inactive_on_update="false" label="DC - District of Columbia" sequence="8" value="DC - District of Columbia"/>
+                <element inactive_on_update="false" label="DE - Delaware" sequence="9" value="DE - Delaware"/>
+                <element inactive_on_update="false" label="FL - Florida" sequence="10" value="FL - Florida"/>
+                <element inactive_on_update="false" label="GA - Georgia" sequence="11" value="GA - Georgia"/>
+                <element inactive_on_update="false" label="HI - Hawaii" sequence="12" value="HI - Hawaii"/>
+                <element inactive_on_update="false" label="IA - Iowa" sequence="13" value="IA - Iowa"/>
+                <element inactive_on_update="false" label="ID - Idaho" sequence="14" value="ID - Idaho"/>
+                <element inactive_on_update="false" label="IL - Illinois" sequence="15" value="IL - Illinois"/>
+                <element inactive_on_update="false" label="IN - Indiana" sequence="16" value="IN - Indiana"/>
+                <element inactive_on_update="false" label="KS - Kansas" sequence="17" value="KS - Kansas"/>
+                <element inactive_on_update="false" label="KY - Kentucky" sequence="18" value="KY - Kentucky"/>
+                <element inactive_on_update="false" label="LA - Louisiana" sequence="19" value="LA - Louisiana"/>
+                <element inactive_on_update="false" label="MA - Massachusetts" sequence="20" value="MA - Massachusetts"/>
+                <element inactive_on_update="false" label="MD - Maryland" sequence="21" value="MD - Maryland"/>
+                <element inactive_on_update="false" label="ME - Maine" sequence="22" value="ME - Maine"/>
+                <element inactive_on_update="false" label="MI - Michigan" sequence="23" value="MI - Michigan"/>
+                <element inactive_on_update="false" label="MN - Minnesota" sequence="24" value="MN - Minnesota"/>
+                <element inactive_on_update="false" label="MO - Missouri" sequence="25" value="MO - Missouri"/>
+                <element inactive_on_update="false" label="MS - Mississippi" sequence="26" value="MS - Mississippi"/>
+                <element inactive_on_update="false" label="MT - Montana" sequence="27" value="MT - Montana"/>
+                <element inactive_on_update="false" label="NC - North Carolina" sequence="28" value="NC - North Carolina"/>
+                <element inactive_on_update="false" label="ND - North Dakota" sequence="29" value="ND - North Dakota"/>
+                <element inactive_on_update="false" label="NE - Nebraska" sequence="30" value="NE - Nebraska"/>
+                <element inactive_on_update="false" label="NH - New Hampshire" sequence="31" value="NH - New Hampshire"/>
+                <element inactive_on_update="false" label="NJ - New Jersey" sequence="32" value="NJ - New Jersey"/>
+                <element inactive_on_update="false" label="NM - New Mexico" sequence="33" value="NM - New Mexico"/>
+                <element inactive_on_update="false" label="NV - Nevada" sequence="34" value="NV - Nevada"/>
+                <element inactive_on_update="false" label="NY - New York" sequence="35" value="NY - New York"/>
+                <element inactive_on_update="false" label="OH - Ohio" sequence="36" value="OH - Ohio"/>
+                <element inactive_on_update="false" label="OK - Oklahoma" sequence="37" value="OK - Oklahoma"/>
+                <element inactive_on_update="false" label="OR - Oregon" sequence="38" value="OR - Oregon"/>
+                <element inactive_on_update="false" label="PA - Pennsylvania" sequence="39" value="PA - Pennsylvania"/>
+                <element inactive_on_update="false" label="PR - Puerto Rico" sequence="40" value="PR - Puerto Rico"/>
+                <element inactive_on_update="false" label="RI - Rhode Island" sequence="41" value="RI - Rhode Island"/>
+                <element inactive_on_update="false" label="SC - South Carolina" sequence="42" value="SC - South Carolina"/>
+                <element inactive_on_update="false" label="SD - South Dakota" sequence="43" value="SD - South Dakota"/>
+                <element inactive_on_update="false" label="TN - Tennessee" sequence="44" value="TN - Tennessee"/>
+                <element inactive_on_update="false" label="TX - Texas" sequence="45" value="TX - Texas"/>
+                <element inactive_on_update="false" label="UT - Utah" sequence="46" value="UT - Utah"/>
+                <element inactive_on_update="false" label="VA - Virginia" sequence="47" value="VA - Virginia"/>
+                <element inactive_on_update="false" label="VT - Vermont" sequence="48" value="VT - Vermont"/>
+                <element inactive_on_update="false" label="WA - Washington" sequence="49" value="WA - Washington"/>
+                <element inactive_on_update="false" label="WI - Wisconsin" sequence="50" value="WI - Wisconsin"/>
+                <element inactive_on_update="false" label="WV - West Virginia" sequence="51" value="WV - West Virginia"/>
+                <element inactive_on_update="false" label="WY - Wyoming" sequence="52" value="WY - Wyoming"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="data_privacy_incident"/>
+        </index>
+    </element>
+</database>

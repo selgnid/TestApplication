@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="caller_relationship" table="x_aoa_data_privacy_incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3rd Party/Vendor</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>0</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ed0723d13d1a7048b8533228144b067</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>3rd Party/Vendor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Allianz Agent</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>1</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>22d0723d13d1a7048b8533228144b069</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Allianz Agent</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Allianz Agent Office</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>2</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eed0723d13d1a7048b8533228144b069</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Allianz Agent Office</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Allianz Agent/Policyholder</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>3</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6d0b63d13d1a7048b8533228144b0cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Allianz Agent/Policyholder</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Attorney</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>4</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6d0b63d13d1a7048b8533228144b0d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Attorney</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Beneficiary</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>5</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66d0b63d13d1a7048b8533228144b0d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Beneficiary</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Employee</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>6</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26d0b63d13d1a7048b8533228144b0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Employee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Allianz Agent</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>7</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2d0b63d13d1a7048b8533228144b0d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Non-Allianz Agent</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Policy Holder</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>8</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2d0b63d13d1a7048b8533228144b0d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Policy Holder</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Power of Attorney</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>9</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62d0b63d13d1a7048b8533228144b0d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Power of Attorney</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Public</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>10</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>22d0b63d13d1a7048b8533228144b0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Public</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Questar Client</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>11</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eed0b63d13d1a7048b8533228144b0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Questar Client</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Questar Registered Representative</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>12</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aed0b63d13d1a7048b8533228144b0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Questar Registered Representative</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TPA</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>13</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ed0b63d13d1a7048b8533228144b0d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>TPA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Trustee</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>14</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ed0b63d13d1a7048b8533228144b0d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Trustee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>caller_relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <sequence>15</sequence>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ead0b63d13d1a7048b8533228144b0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>caller_relationship</element>
+            <name>x_aoa_data_privacy_incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-22 21:16:40</sys_created_on>
+            <sys_id>14df4606db11230058d5a08a48961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>caller_relationship</sys_name>
+            <sys_package display_value="Data Privacy Incident" source="x_aoa_data_privacy">3da2def51391a7048b8533228144b0e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data Privacy Incident">3da2def51391a7048b8533228144b0e5</sys_scope>
+            <sys_update_name>sys_choice_x_aoa_data_privacy_incident_caller_relationship</sys_update_name>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-22 21:16:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="detailed_count_of_incident" label="Detailed count of incident" language="en" table="x_aoa_data_privacy_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>detailed_count_of_incident</element>
+            <help/>
+            <hint/>
+            <label>Detailed count of incident</label>
+            <language>en</language>
+            <name>x_aoa_data_privacy_incident</name>
+            <plural>Detailed count of incidents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+            <sys_created_on>2018-10-23 12:39:59</sys_created_on>
+            <sys_id>af248aca131da7048b8533228144b006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Detailed count of incident</sys_name>
+            <sys_package display_value="Data Privacy Incident" source="x_aoa_data_privacy">3da2def51391a7048b8533228144b0e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data Privacy Incident">3da2def51391a7048b8533228144b0e5</sys_scope>
+            <sys_update_name>sys_documentation_x_aoa_data_privacy_incident_detailed_count_of_incident_en</sys_update_name>
+            <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+            <sys_updated_on>2018-10-23 12:39:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

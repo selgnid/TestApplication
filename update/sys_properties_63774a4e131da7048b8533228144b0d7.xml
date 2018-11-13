@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Data Privacy Incident activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_aoa_data_privacy_incident_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
+        <sys_created_on>2018-10-23 12:54:27</sys_created_on>
+        <sys_id>63774a4e131da7048b8533228144b0d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_aoa_data_privacy_incident_activity.fields</sys_name>
+        <sys_package display_value="Data Privacy Incident" source="x_aoa_data_privacy">3da2def51391a7048b8533228144b0e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Privacy Incident">3da2def51391a7048b8533228144b0e5</sys_scope>
+        <sys_update_name>sys_properties_63774a4e131da7048b8533228144b0d7</sys_update_name>
+        <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
+        <sys_updated_on>2018-10-23 12:54:27</sys_updated_on>
+        <type>string</type>
+        <value>number,actual_date,agency_reporting_required,assigned_to,business_area,business_impacted,detailed_count_of_incident,caller_name,caller_reference,caller_relationship,corrective_action</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=63774a4e131da7048b8533228144b0d7"/>
+</record_update>
