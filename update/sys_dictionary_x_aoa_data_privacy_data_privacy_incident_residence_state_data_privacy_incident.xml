@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>ebrostrom@aeritae.com</sys_created_by>
         <sys_created_on>2018-10-23 13:11:57</sys_created_on>
-        <sys_id>5b4b0202135da7048b8533228144b02e</sys_id>
+        <sys_id>f83d87fcdb31230058d5a08a4896197a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Data Privacy Incident</sys_name>
         <sys_package display_value="Data Privacy Incident" source="x_aoa_data_privacy">3da2def51391a7048b8533228144b0e5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Data Privacy Incident">3da2def51391a7048b8533228144b0e5</sys_scope>
         <sys_update_name>sys_dictionary_x_aoa_data_privacy_data_privacy_incident_residence_state_data_privacy_incident</sys_update_name>
-        <sys_updated_by>ebrostrom@aeritae.com</sys_updated_by>
-        <sys_updated_on>2018-10-23 13:11:57</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-11-13 17:18:06</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
